@@ -1,4 +1,7 @@
 #ignore theory
+**/Theory
+**/Documentation
+**/Bonus
 *.pdf
 *.docx
 *.doc
